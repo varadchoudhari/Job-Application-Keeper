@@ -12,3 +12,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.application-log {
+  line-height: 50px;
+  background: #eaf2ff;
+  box-shadow: 0.5px 0.5px 2px grey;
+  display: flex;
+}
+
+.date {
+  flex-grow: 200;
+}
+
+.company {
+  flex-grow: 200; 
+}
+
+.status {
+  flex-grow: 200; 
+}
+
+.resume {
+ flex-grow: 200;  
+}
